@@ -1,0 +1,12 @@
+# Sensitive files
+*.crt
+*.key
+
+# Notes and instructions
+init_instructions.txt
+
+# Temporary/system-specific files
+10.96.0.10:53:
+
+# Exclude VSCode server-related files
+.vscode-server/
